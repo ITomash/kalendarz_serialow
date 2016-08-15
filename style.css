@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #0f0a0a;
+}
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+img {
+    border: 1px solid #fff;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #511730;
+    box-shadow: 0 7px 10px #000 inset;
+    font-family: 'Lobster', 'cursive';
+    color: #0f0a0a;
+    font-size: 20px;
+    padding: 30px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.odGory {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+.odstep {
+    height: 20px;
+}
+.row {
+    display: none;
+}
+.odliczanie {
+    font-size: 24px;
+    color: #fff;
+    width: 200px;
+    margin: 0 auto;
+    border-bottom: 1px dashed #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
